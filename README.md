@@ -6,3 +6,4 @@
 Hi, I'm Jenna!
 A  student from SAYNA.
 For the moment, I am on GitHub in order to deposit my projects, necessary for my learning.
+I am still a beginner but ... We'll see what happens in the future!
